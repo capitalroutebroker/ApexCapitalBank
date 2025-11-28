@@ -1,19 +1,19 @@
-# CapitalRoute
+# CapitalRouter
 
-CapitalRoute is a beginner-friendly online brokerage platform offering commission-free trades, a $0 account minimum, and educational resources to help U.S. investors grow their wealth.
+[![GitHub Pages](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://your-username.github.io/capitalrouter/)
 
 ## Overview
-* **Purpose**: Provide a simple, accessible trading experience with a focus on learning and smart investing.
-* **Features**:
-  * Commission-free trades on stocks & ETFs.
-  * $0 account minimum.
-  * Educational articles, videos, and a simulated trading tool.
-  * Responsive design for mobile and desktop.
-* **Compliance**: CapitalRoute is a registered broker-dealer (Member FINRA/SIPC).
+CapitalRouter is a registered broker-dealer (Member FINRA/SIPC) providing a streamlined, commission-free trading platform for U.S. investors. Designed for beginners, it offers a $0 account minimum and educational resources to support smart investing.
 
-## Setup & Deployment
-1. **Clone the repo**:
+## Features
+* **Trading**: Commission-free stocks, ETFs, and options.
+* **Education**: Articles, tutorials, and a simulated trading tool.
+* **Accessibility**: Responsive design for desktop and mobile.
+* **Security**: Member FINRA/SIPC, compliant with U.S. regulations.
+
+## Getting Started
+1. **Clone the repository**:
    
 ```bash
-   git clone https://github.com/your-username/capitalroute.git
+   git clone https://github.com/your-username/capitalrouter.git
    
