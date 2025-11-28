@@ -1,0 +1,17 @@
+CapitalRoute/
+├── index.html
+├── about.html
+├── services.html
+├── education.html
+├── contact.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── script.js
+├── images/
+│   ├── logo.png
+│   ├── hero-banner.jpg
+│   ├── icon-trading.svg
+│   ├── icon-education.svg
+│   ├── icon-support.svg
+└── .gitignore
